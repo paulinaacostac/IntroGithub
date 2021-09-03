@@ -1,4 +1,8 @@
-This is the README from git editor
+#GIT WORKSHOP
+This is the git workshop
+
+##Name
+Paulina Acosta
 
 ```python
 a = [0,1,2,3,4,5]
