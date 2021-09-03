@@ -1,7 +1,7 @@
-#GIT WORKSHOP
+# GIT WORKSHOP
 This is the git workshop
 
-##Name
+## Name
 Paulina Acosta
 
 ```python
